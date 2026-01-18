@@ -1,4 +1,4 @@
-# Robo Guy – Divine Intelligence Companion (Prototype)
+# Robo Guy  Divine Intelligence Companion
 
 Robo Guy is an AI companion designed to support emotional well-being, personal growth, and discipline through emotionally intelligent, adaptive, and ethical reasoning.
 
