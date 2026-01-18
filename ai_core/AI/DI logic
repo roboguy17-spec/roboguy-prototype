@@ -1,0 +1,4 @@
+algorithm 
+     -converts speech to text 
+     -analyse speech and detect emotion
+     -convert analysed data to speech
